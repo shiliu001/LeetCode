@@ -1,4 +1,4 @@
-package cn.edu.shiliu;
+package cn.shiliu.leetcode;
 
 /**
  * @Author shiliu
