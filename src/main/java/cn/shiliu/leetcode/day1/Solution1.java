@@ -3,7 +3,7 @@ package cn.shiliu.leetcode.day1;
 /**
  * 二分查找
  */
-class Solution {
+class Solution1 {
     public int search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
@@ -19,4 +19,9 @@ class Solution {
         }
         return -1;
     }
+
+//    public static void main(String[] args) {
+//        String
+//        System.out.println();
+//    }
 }
