@@ -1,6 +1,4 @@
-package cn.shiliu.leetcode.day2;
-
-import jdk.nashorn.internal.runtime.NumberToString;
+package cn.shiliu.leetcode.week01.day2;
 
 public class Part2IsPalindrome {
     public static void main(String[] args) {

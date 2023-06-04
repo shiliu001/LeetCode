@@ -1,4 +1,4 @@
-package cn.shiliu.leetcode.day1;
+package cn.shiliu.leetcode.week01.day1;
 
 /**
  * 二分查找

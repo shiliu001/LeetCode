@@ -1,4 +1,4 @@
-package cn.shiliu.leetcode.day2;
+package cn.shiliu.leetcode.week01.day2;
 
 public class Part3isPalindrome {
 
